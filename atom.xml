@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://atlanlynn.github.io/"/>
-  <updated>2016-09-11T11:11:21.000Z</updated>
+  <updated>2016-09-11T12:13:08.000Z</updated>
   <id>https://atlanlynn.github.io/</id>
   
   <author>
@@ -20,9 +20,27 @@
     <link href="https://atlanlynn.github.io/2016/09/11/%E5%86%99%E5%9C%A8%E5%BC%80%E5%A7%8B/"/>
     <id>https://atlanlynn.github.io/2016/09/11/写在开始/</id>
     <published>2016-09-11T11:10:38.000Z</published>
-    <updated>2016-09-11T11:11:21.000Z</updated>
+    <updated>2016-09-11T12:13:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://odc8c149y.bkt.clouddn.com/maomilaoshi.jpg" alt="夏目友人帐"></p>
+<h1 id="写在开始"><a href="#写在开始" class="headerlink" title="写在开始"></a>写在开始</h1><a id="more"></a>
+<p>周末用了一天时间，搭建起了这个博客，初衷是想自己写一个电子版的请柬，结果查到使用github pages和hexo<br>可以搭建博客，用Markdown编辑文章，编译发布都很方便，于是乎动手搭建起来</p>
+<h2 id="以后会做什么"><a href="#以后会做什么" class="headerlink" title="以后会做什么?"></a>以后会做什么?</h2><ul>
+<li>技术文章，毕竟是程序媛，总是要积累经验提升技能</li>
+<li>生活分享，记录下日常，鉴于文字水平有限可能不会写太多。。。</li>
+</ul>
+<h2 id="集成了以下功能"><a href="#集成了以下功能" class="headerlink" title="集成了以下功能"></a>集成了以下功能</h2><ul>
+<li>评论</li>
+<li><p>分享</p>
+<p>大家可以随时给我留言，体验一下哦</p>
+</li>
+</ul>
+]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://odc8c149y.bkt.clouddn.com/maomilaoshi.jpg&quot; alt=&quot;夏目友人帐&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;写在开始&quot;&gt;&lt;a href=&quot;#写在开始&quot; class=&quot;headerlink&quot; title=&quot;写在开始&quot;&gt;&lt;/a&gt;写在开始&lt;/h1&gt;
     
     </summary>
     
