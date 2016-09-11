@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Atlan❤Lynn</title>
-  <subtitle>try{living();} //生活中总是出现这样那样的意外catch(Exception e){faceTogether();}  //只要我们携手共同面对finally{ours.love++;}    //最终只会让我们爱的更深</subtitle>
+  <subtitle>只愿得一人心，白首不分离</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://atlanlynn.github.io/"/>
-  <updated>2016-09-11T10:24:41.000Z</updated>
+  <updated>2016-09-11T11:11:21.000Z</updated>
   <id>https://atlanlynn.github.io/</id>
   
   <author>
@@ -14,6 +14,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写在开始</title>
+    <link href="https://atlanlynn.github.io/2016/09/11/%E5%86%99%E5%9C%A8%E5%BC%80%E5%A7%8B/"/>
+    <id>https://atlanlynn.github.io/2016/09/11/写在开始/</id>
+    <published>2016-09-11T11:10:38.000Z</published>
+    <updated>2016-09-11T11:11:21.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="https://atlanlynn.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
