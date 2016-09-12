@@ -4,7 +4,8 @@
  */
 var getParam = function () {
     try{
-    var url = window.location.href;
+      console.log(window.location.href);
+    var url = decodeURI(window.location.href);
     var result = url.split("?")[1];
     var keyValue = result.split("&");
     var obj = {};
